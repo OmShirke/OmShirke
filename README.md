@@ -21,4 +21,4 @@ I like talking to people about tech and philosophy.<br>
 Skills: C++,C, python <br>
   - 🔭 Learning Data Science and Math.
 </p>
-<a href="OmShirke.github.io/"><p align = "center" >Portfolio </p><a>
+<a href="omshirke.github.io/"><p align = "center" >Portfolio </p><a>
