@@ -18,7 +18,7 @@
 
 <p align="center" style= "font-style: italic">
 I like talking to people about tech and philosophy.<br>
-Skills: C++,C, python <br>
-  - 🔭 Learning Data Science and Math.
+Skills: MERN,C++ <br>
+  - 🔭 Learning Web Development and Engineering.
 </p>
 <a href="https://OmShirke.github.io"><p align = "center" >Portfolio </p><a>
