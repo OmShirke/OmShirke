@@ -17,7 +17,7 @@
 ![I like working on backend and converting math functions into code.](https://github.com/Exar04/Exar04/blob/main/image.png)
 
 <p align="center" style= "font-style: italic">
-I like talking to people about tech and philosophy.<br>
+I like building projects and learning alongside.<br>
 Skills: MERN,C++,js <br>
   - 🔭 Learning Web Development and Engineering.
 </p>
