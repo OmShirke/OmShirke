@@ -18,7 +18,7 @@
 
 <p align="center" style= "font-style: italic">
 I like building projects and learning alongside.<br>
-Skills: MERN,C++,js <br>
+Skills: MERN, GOLANG, C++, JAVASCRIPT <br>
   - 🔭 Learning Web Development and Engineering.
 </p>
 <a href="https://OmShirke.github.io"><p align = "center" >Portfolio </p><a>
